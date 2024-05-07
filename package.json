@@ -1,0 +1,21 @@
+{
+  "name": "quiz_sam",
+  "version": "1.0.0",
+  "description": "to generate quiz and quiz result",
+  "main": "index.js",
+  "bin": {
+    "quiz_sam": "bin/index.js"
+  },
+  "scripts": {
+    "test": "\\*Echo*\\"
+  },
+  "keywords": [
+    "sammmm"
+  ],
+  "author": "samiya marium",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  }
+}
